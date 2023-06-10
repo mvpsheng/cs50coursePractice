@@ -8,9 +8,9 @@
 * SQL, Models, and Migrations
 * JavaScript
 * User interfaces
-## Next up 
 * Testing, CI/CD
-
+* Scalability and Security
+## Next up 
 ## What i thought
 When i type some command in the terminal, i saw something like magic happen. I think i love command line tool, i love software.
 
